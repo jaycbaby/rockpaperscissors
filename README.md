@@ -1,4 +1,4 @@
-rockpaperscissors
+Rock-Paper-Scissors
 =================
 
-Rock-paper-scissors game in the console. 
+Simple Javascript Rock-paper-scissors game.
